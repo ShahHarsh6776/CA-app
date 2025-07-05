@@ -1,4 +1,4 @@
-# account
+# FeesTrackPro
 
 A new Flutter project.
 
